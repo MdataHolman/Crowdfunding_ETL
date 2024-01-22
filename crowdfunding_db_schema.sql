@@ -1,3 +1,4 @@
+-- Create the Crowdfunding Database
 -- creating contacts table and set primary key -- 
 
 CREATE TABLE contacts (
